@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asignacion04_CalculadoraIMC_Hinojosa</string>
+    <string name="Peso">Peso</string>
+    <string name="Estatura">Estatura</string>
+</resources>
